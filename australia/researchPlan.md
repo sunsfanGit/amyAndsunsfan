@@ -31,7 +31,7 @@ Candidate Cities
 
 Environment
 
-- In the world most suitable living city rate, 澳大利亚五座入榜城市，墨尔本排名第一，阿德莱德第五，悉尼第七，珀斯第八，布里斯班第十八
+- In the world most suitable living city list, five australia cities get in it，Melbourne 1st，Adelaide 5th，Sydney 7th，Perth 8th，Brisbane 18th.
 
 Cost-of-living
 
