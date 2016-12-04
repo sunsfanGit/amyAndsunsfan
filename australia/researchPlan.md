@@ -13,9 +13,15 @@ Realization day：2019.12.30
 ## Research
 
 #### Work
-
+##### Find relative positions in australia(website,travel chances,etc.)
+##### Investigate the company which provides this position(field，scale，prospect，location，etc.)
+##### Uderstand informations about this position(relative skills，working time,salary,welfare,etc.)
+##### Knowing how the work will benefit us(money,skills,vision,thinking,attitude,etc.) 
+##### Formalities need to do(get the working visa)
 
 #### Life
 
 
 #### Policy
+##### Working policies for migrant workers(taxes,legal holiday,purchasing bonus,etc.)
+##### Life policies for migrant workers(living，medical,etc.)
