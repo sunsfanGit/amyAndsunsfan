@@ -19,7 +19,27 @@ Realization day：2019.12.30
 ##### Knowing how the work will benefit us(money,skills,vision,thinking,attitude,etc.) 
 ##### Formalities need to do(get the working visa)
 
+
+
 #### Life
+
+Candidate Cities
+
+- Sydney
+- Melbourne
+- Brisbane
+
+Natural Environment
+
+- In the world most suitable living city rate, 澳大利亚五座入榜城市，墨尔本排名第一，阿德莱德第五，悉尼第七，珀斯第八，布里斯班第十八
+
+Cost-of-living
+
+Relax Style
+
+Transportation
+
+ 
 
 
 #### Policy
