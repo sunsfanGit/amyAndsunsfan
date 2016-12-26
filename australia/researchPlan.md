@@ -14,13 +14,17 @@ Realization day：2019.12.30
 
 #### Work
 ##### Find relative positions in australia(website,travel chances,etc.)
-###### website
 
--Indeed：We can type the job contents and the region tov find relative jobs in australia,which displays as what and where;We also could associate our own mailbox to get the job informations we need immediately.
--Monster:Like indeed,we can find the job we want by job contents and location,in addition,monster provides the way to look for jobs by    searching companies,and it also helps to generate our resumes.
--others:like AolJobs,Glassdoor,SimplyHired and so on.
-###### travel
--we could take a trip to australia so that we can get more much and more direct informations about the IT career in australia.
+Website
+
+- Indeed：We can type the job contents and the region tov find relative jobs in australia,which displays as what and where;We also could associate our own mailbox to get the job informations we need immediately.
+- Monster:Like indeed,we can find the job we want by job contents and location,in addition,monster provides the way to look for jobs by    searching companies,and it also helps to generate our resumes.
+- others:like AolJobs,Glassdoor,SimplyHired and so on.
+
+Travel
+
+- we could take a trip to australia so that we can get more much and more direct informations about the IT career in australia.
+
 ##### Investigate the company which provides this position(field，scale，prospect，location，etc.)
 ##### Uderstand informations about this position(relative skills，working time,salary,welfare,etc.)
 ##### Knowing how the work will benefit us(money,skills,vision,thinking,attitude,etc.) 
