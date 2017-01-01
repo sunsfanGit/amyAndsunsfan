@@ -34,23 +34,66 @@ Travel
 
 #### Life
 
-Candidate Cities
+##### Candidate Cities
 
 - Sydney
 - Melbourne
 - Brisbane
 
-Environment
+##### Environment
 
 - In the world most suitable living city list, five australia cities get in it，Melbourne 1st，Adelaide 5th，Sydney 7th，Perth 8th，Brisbane 18th.
 
-Cost-of-living
+##### Cost-of-living
 
-Relax Style
+search platform
+
+- [滴答网·澳洲](http://aus.tigtag.com/)
+- ​
+
+Exchange rate
+
+- 1 AUD = 5 RMB
+- 1RMB = 0.2 AUD
+
+Renting
+
+- main bedroom：300 AUD/week
+- other bedroom：150~200 AUD/week
+- 100-120 Square meters suite：600-700 AUD/week
+
+House buying
+
+Utilities
+
+- 270 AUD/season
+
+communication
+
+- mobile phone: 60 AUD/month
+- network: 50 AUD/month
+
+Diet
+
+- 20 AUD/person·week
+
+Medical
+
+- ​
 
 Transportation
 
-Chinese Proportion
+- Transportation Card: 418 AUD/season
+
+
+
+##### Relax Style
+
+##### Transportation
+
+##### Chinese Proportion
+
+
 
  
 
