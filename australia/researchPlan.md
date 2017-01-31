@@ -93,7 +93,13 @@ Transportation
 
 ##### Chinese Proportion
 
+Australia total proportion is 23,800,000, and the Chinese-Australians is 3.37%, about 808,800.
 
+Chinese-Australians most reside in Sydney and Melbourne. Expecially, The Hurstville district of Sydney is a true "Chinatown".
+
+Except Chinese-Australians, Chinese students accounted for 28.5% of the total number of students studying abroad into Australian.
+
+Putonghua is Australia's first foreign language.
 
  
 
