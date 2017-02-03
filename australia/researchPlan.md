@@ -26,6 +26,47 @@ Travel
 - we could take a trip to australia so that we can get more much and more direct informations about the IT career in australia.
 
 ##### Investigate the company which provides this position(field，scale，prospect，location，etc.)
+
+Atlassian(https://www.atlassian.com/)
+
+- Field: Integrated IT company,which provides lots of IT tools,like baidu in China.
+- Positions: Business,design,marcketing,egineering,product management and data/anylistic positions.
+- Scale: Biggest
+- Prospect: Good prospect,because it floats on the stock macket.
+- Location: Sydney
+
+Airtasker(https://www.airtasker.com/)
+
+- Filed: O2O IT company,a trusted community marketplace for people and businesses to outsource tasks, find local services or hire flexible staff in minutes - online or via mobile.
+- Positions: Product Designer,Digital Designer,Customer Experience Specialist,Head of People Ops etc.
+- Scale: Middle
+- Prospect: Good prospect,because it just completed a enterprise financing.
+- Location: Sydney
+
+Tyro(https://www.tyro.com/)
+
+- Field: Payment Platform,like Alipay in China.
+- Positions: Software Engineer,Software Tester,Security Engineer,Mobile Software Engineer etc.
+- Scale: Big
+- Prospect: Good prospect,because it is the biggest payment platform in Australia,almost all of the commercial businesses depend on it.
+- Location: Sydney
+
+Iconic(http://www.theiconic.com.au/)
+
+- Field:  E-commerce company,like Tmall,JD in China.
+- Positions: PHP Full Stack and Back End Developers,iOS Engineer,DevOps Engineer etc.
+- Scale: Big
+- Prospect: Good prospect,because it is the biggest E-commerce website in Australia.
+- Location: Sydney
+
+EA and Halfbrick(https://www.ea.com/,https://halfbrick.com/)
+
+- Field: Games.
+- Positions: Programmer,System software egineerer,Online software egineerer etc.
+- Scale: Big
+- Prospect: Middle prospect,because both of them are the branch company.
+- Location: EA in Melbourne and Halfbrick in Brisbane.
+
 ##### Uderstand informations about this position(relative skills，working time,salary,welfare,etc.)
 ##### Knowing how the work will benefit us(money,skills,vision,thinking,attitude,etc.) 
 ##### Formalities need to do(get the working visa)
@@ -64,6 +105,10 @@ Renting
 
 House buying
 
+- About 1400 AUD/m^2 in Melbourne
+- About 2500 AUD/m^2 in Sydney
+- About 2200 AUD/m^2 in Brisbane
+
 Utilities
 
 - 270 AUD/season
@@ -79,7 +124,7 @@ Diet
 
 Medical
 
-- ​
+- ​About 1000 AUD per family.
 
 Transportation
 
