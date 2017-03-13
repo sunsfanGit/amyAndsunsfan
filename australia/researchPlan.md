@@ -16,7 +16,7 @@ Realization day：2019.12.30
 ##### Find relative positions in australia(website,travel chances,etc.)
 
 Website
-- seek.com.au：Wonderful web for jobs in Australia(****).
+- [seek](https://www.seek.com.au/)：Wonderful web for jobs in Australia(****).
 - Indeed：We can type the job contents and the region tov find relative jobs in australia,which displays as what and where;We also could associate our own mailbox to get the job informations we need immediately.
 - Monster:Like indeed,we can find the job we want by job contents and location,in addition,monster provides the way to look for jobs by    searching companies,and it also helps to generate our resumes.
 - others:like AolJobs,Glassdoor,SimplyHired and so on.
@@ -70,37 +70,37 @@ EA and Halfbrick(https://www.ea.com/,https://halfbrick.com/)
 ##### Uderstand informations about this position(relative skills，working time,salary,welfare,etc.)
 
 Java skills: 
- - Java 7/8
- - Core Java, J2EE, Java Content Repository (API) suite, CQ5/AEM, Sling and Apache Felix OSGi
- - REST, Hibernate, SOAP modules, Struts, Spring, Jscript, HTML 5, Weblogic, Websphere
- - Microservices
- - Experience in building restful API
- - Test Driven Development (JUnit)
- - Multi-threading 
- - Solid relational DB experience desirable
- - Exceptional Communication Skills
- - Candidates with long term availability and current Australian working rights will be preferred.
- 
+- Java 7/8
+- Core Java, J2EE, Java Content Repository (API) suite, CQ5/AEM, Sling and Apache Felix OSGi
+- REST, Hibernate, SOAP modules, Struts, Spring, Jscript, HTML 5, Weblogic, Websphere
+- Microservices
+- Experience in building restful API
+- Test Driven Development (JUnit)
+- Multi-threading 
+- Solid relational DB experience desirable
+- Exceptional Communication Skills
+- Candidates with long term availability and current Australian working rights will be preferred.
+
 JavaScript skills:
- - Strong Front end experience - JavaScript gun, HTML/CSS and a good level of commercial experience with React
- - Experience working with Cloud based infrastructure (ideally AWS)
- - Experience working within Agile delivery teams
- - A willingness to support your own code in production
- - Experience with and/or exposure to NodeJS
- - An ability to understand .NET code
- - Experience with Git
- - Angular 2
- 
+- Strong Front end experience - JavaScript gun, HTML/CSS and a good level of commercial experience with React
+- Experience working with Cloud based infrastructure (ideally AWS)
+- Experience working within Agile delivery teams
+- A willingness to support your own code in production
+- Experience with and/or exposure to NodeJS
+- An ability to understand .NET code
+- Experience with Git
+- Angular 2
+
 Working time:
- - normally 9:00 am to 5:00 pm,about 35 hours a week(less than 38 hours).
- 
+- normally 9:00 am to 5:00 pm,about 35 hours a week(less than 38 hours).
+
 Salary:
- - $65,000 - $85,000 per year for junior developer
- - $130,000 - $150,000 per year for senior developer
- 
+- $65,000 - $85,000 per year for junior developer
+- $130,000 - $150,000 per year for senior developer
+
 Welfare:
- - Depending on the type of visa you hold, you can receive different benefits and services from Centrelink(https://www.humanservices.gov.au/customer/dhs/centrelink)
- 
+- Depending on the type of visa you hold, you can receive different benefits and services from Centrelink(https://www.humanservices.gov.au/customer/dhs/centrelink)
+
 ##### Knowing how the work will benefit us(money,skills,vision,thinking,attitude,etc.) 
 ##### Formalities need to do(get the working visa)
 
@@ -120,52 +120,58 @@ Welfare:
 
 ##### Cost-of-living
 
-search platform
+​	search platform
 
 - [滴答网·澳洲](http://aus.tigtag.com/)
-- ​
 
-Exchange rate
+​        Exchange rate
 
 - 1 AUD = 5 RMB
 - 1RMB = 0.2 AUD
 
-Renting
+​        Renting
 
 - main bedroom：300 AUD/week
 - other bedroom：150~200 AUD/week
 - 100-120 Square meters suite：600-700 AUD/week
 
-House buying
+​        House buying
 
 - About 1400 AUD/m^2 in Melbourne
 - About 2500 AUD/m^2 in Sydney
 - About 2200 AUD/m^2 in Brisbane
 
-Utilities
+​        Utilities
 
 - 270 AUD/season
 
-communication
+​        communication
 
 - mobile phone: 60 AUD/month
 - network: 50 AUD/month
 
-Diet
+​        Diet
 
 - 20 AUD/person·week
 
-Medical
+​        Medical
 
 - ​About 1000 AUD per family.
 
-Transportation
+​        Transportation
 
 - Transportation Card: 418 AUD/season
 
 
+##### Life Style
 
-##### Relax Style
+- Australians are quite casual and informal. For example, most Australian students refer to their lecturers and tutors by their first names.
+- Australians expect everyone to be treated equally. It is customary to thank shop assistants and other service staff when they assist you.
+- It is important to be on time in Australia — it is polite to call if you are going to be late for an appointment.
+- Smoking is not permitted in restaurants, bars, nightclubs and many other public covered areas, such as train stations.
+- Littering is prohibited, as is drinking alcohol in a public place.
+- Most Australians will be happy to help you if you’re unsure of something.
+- Like a life of leisure. Get off work early, and spend leisure time with family. In weekend, their often go to the beach or travel.
 
 ##### Transportation
 
